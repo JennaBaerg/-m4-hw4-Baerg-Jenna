@@ -59,6 +59,7 @@ h1 {
     border-bottom: 2px solid rgb(205, 230, 173);
     margin: 12px 0 12px 0;
     padding: 5px 0;
+    font-size: 35px;
 }
 
 .container {
@@ -84,13 +85,14 @@ aside {
     min-width:300px;
     max-height: 110px;
     margin: 0 0 0 40px;
-    padding: 20px;
+    padding: 20px 0 20px 20px;
 }
 
 h2 {
   border-bottom: 2px solid rgb(205, 230, 173);
   padding: 5px;
   margin: 0 0 10px 0;
+  font-size: 25px;
 }
 
 .icons {
